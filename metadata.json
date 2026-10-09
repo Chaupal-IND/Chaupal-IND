@@ -1,0 +1,6 @@
+{
+  "name": "Chaupal",
+  "description": "India-first regional social platform empowering local community building, regional language feeds, map-based friend discovery, neighborhood reels, and direct chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
